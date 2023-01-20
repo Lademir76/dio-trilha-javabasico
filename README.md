@@ -1,1 +1,0 @@
-Curso que apresenta conceitos introdutórios sobre como podemos identificar e tratar Exceptions na linguagem Java. Curso este ministrado por mim em nome da DIGITAL INNOVATION ONE 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
